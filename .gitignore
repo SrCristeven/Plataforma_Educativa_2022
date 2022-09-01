@@ -11,6 +11,9 @@
 # production
 /build
 
+#videos
+\src\assets\Clases
+
 # misc
 .DS_Store
 .env.local
